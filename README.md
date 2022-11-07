@@ -13,10 +13,11 @@ Currently support the DNS systems:
 <br /><br />
 # TODO:
 
+* Add DNSSEC support
 * Add exceptions
 * Add mechanism to automatically choose the DNS system used by the local OS (running this tool)
+* Add multi-threading support for the Benchmark functionality (ping & DNS resolve actions)
 * Add support to run this tool via Docker-Compose or Kubernetes
-* Add DNSSEC support
 * Add support to the below DNS systems:
 * * Bind9 (forwarders)
 * * DnsMasq (upstream servers)

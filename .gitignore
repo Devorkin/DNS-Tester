@@ -1,0 +1,8 @@
+.vscode/launch.json
+.vscode/settings.json
+app/__pycache__/benchmark.cpython-39.pyc
+app/__pycache__/benchmark.cpython-310.pyc
+app/__pycache__/config.cpython-39.pyc
+app/__pycache__/helpers.cpython-39.pyc
+app/__pycache__/modifier.cpython-39.pyc
+app/__pycache__/scores.cpython-39.pyc
